@@ -1,0 +1,29 @@
+table,
+th,
+td {
+  border: 1px solid;
+  padding: 5px;
+  text-align: center;
+  width: 500px;
+}
+
+thead {
+  background-color: rgb(89, 238, 188);
+  font-weight: bolder;
+}
+
+tbody {
+  background-color: rgb(177, 247, 251);
+
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+}
+
+#buttons-div {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
